@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa");
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -10,6 +12,10 @@ body {
   color: #444;
   background: #fff;
   height: 100vh;
+}
+
+h1 {
+  font-family: "Comfortaa", sans-serif;
 }
 
 .container {
